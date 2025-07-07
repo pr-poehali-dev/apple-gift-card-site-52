@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import Icon from "@/components/ui/icon";
+import { GradientText } from "@/components/ui/gradient-text";
 
 const Index = () => {
   const [cart, setCart] = useState<
@@ -74,7 +75,7 @@ const Index = () => {
       <section className="bg-gradient-to-br from-gray-50 to-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-5xl font-bold text-black mb-6">
-            Подарочные карты Apple
+            Подарочные карты <GradientText>Apple</GradientText>
           </h2>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             Идеальный подарок для любого случая. Мгновенная доставка на email.

@@ -34,6 +34,13 @@
 
     --radius: 0.5rem;
 
+    --color-1: 330 100% 40%;
+    --color-2: 140 100% 55%;
+    --color-3: 210 100% 30%;
+    --color-4: 60 100% 70%;
+    --color-5: 295 100% 45%;
+    --brand: 50 100% 50%;
+
     --sidebar-background: 0 0% 98%;
 
     --sidebar-foreground: 240 5.3% 26.1%;
@@ -87,6 +94,13 @@
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    --color-1: 330 100% 40%;
+    --color-2: 140 100% 55%;
+    --color-3: 210 100% 30%;
+    --color-4: 60 100% 70%;
+    --color-5: 295 100% 45%;
+    --brand: 50 100% 50%;
   }
 }
 
